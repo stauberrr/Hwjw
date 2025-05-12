@@ -1,1 +1,12 @@
 # Hwjw
+<div class="space-background">
+    <div class="floating-elements">
+        </div>
+    <div class="asteroid-container">
+        </div>
+</div>
+
+<div class="heart" id="magicHeart"></div>
+<div class="love-text" id="loveText">Te amo</div>
+
+<script src="script.js"></script>
